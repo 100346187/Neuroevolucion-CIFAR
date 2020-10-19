@@ -1,4 +1,4 @@
-# Neuroevolucion-CIFAR
+# Neuroevolución CIFAR
 El objetivo principal de este trabajo es diseñar, implementar y aplicar un algoritmo genético capaz de construir automáticamente redes neuronales convolucionales que, una vez entrenadas, puedan resolver correctamente una tarea de visión artificial.
 
 ## Introducción
